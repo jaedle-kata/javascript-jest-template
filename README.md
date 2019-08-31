@@ -20,6 +20,6 @@ npm test
 ### Running it continously (watch)
 
 ```sh
-
+npm run test:watch
 ```
 
