@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jaedle-kata/javascript-jest-template/issues"
   },
-  "homepage": "https://github.com/jaedle-kata/javascript-jest-template#readme"
+  "homepage": "https://github.com/jaedle-kata/javascript-jest-template#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
