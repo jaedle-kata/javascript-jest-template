@@ -1,5 +1,7 @@
+const kata = require('./kata');
+
 describe('Kata', () => {
   it('works', () => {
-    expect(true).toBe(true);
+    expect(kata()).toBe(true);
   });
 });
