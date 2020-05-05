@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jaedle-kata/javascript-jest-template#readme",
   "devDependencies": {
-    "jest": "^26.0.0"
+    "jest": "^26.0.1"
   }
 }
